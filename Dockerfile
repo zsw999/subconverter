@@ -1,2 +1,2 @@
-FROM asdlokj1qpi233/subconverter:latest
+FROM asdlokj1qpi23/subconverter:latest
 EXPOSE 25500
